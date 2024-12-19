@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710631670 source:d:\learn c programing languag\begennar\fd\main.c
+	<stdio.h>
+	<stdlib.h>
+
